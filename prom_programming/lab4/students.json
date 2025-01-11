@@ -1,0 +1,36 @@
+[ {
+  "num" : 1,
+  "name" : "Елизавета",
+  "secondName" : "Косаревская",
+  "surname" : "Андреевна",
+  "year" : 2,
+  "group" : 6
+}, {
+  "num" : 2,
+  "name" : "Диана",
+  "secondName" : "Липкина",
+  "surname" : "Владимировна",
+  "year" : 1,
+  "group" : 6
+}, {
+  "num" : 3,
+  "name" : "Екатерина",
+  "secondName" : "Лобко",
+  "surname" : "Эдуардовна",
+  "year" : 3,
+  "group" : 4
+}, {
+  "num" : 4,
+  "name" : "Мария",
+  "secondName" : "Сахоненко",
+  "surname" : "Сергеевна",
+  "year" : 2,
+  "group" : 7
+}, {
+  "num" : 5,
+  "name" : "Яна",
+  "secondName" : "Тихонова",
+  "surname" : "Алексеевна",
+  "year" : 2,
+  "group" : 6
+} ]
